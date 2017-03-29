@@ -11,6 +11,4 @@ public abstract class Plant {
         this.heigth = weigth;
     }
     public abstract void grow();
-
-
 }
